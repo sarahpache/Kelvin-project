@@ -1,7 +1,7 @@
 <script>
 
 // The forecast for today is 293 Kelvin. Variable Kelvin will stay constant.
-const kelvin = 0;
+const kelvin = 293;
 
 // Converting kelvin to celsius by subtracting 273 from kelvin and creating a new variable celsius
 var celsius = kelvin-273;
